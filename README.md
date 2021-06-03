@@ -1,6 +1,6 @@
 # Time_Series
 
-**SARIMA**
+*SARIMA
 **TBATS**
 **fbPHROPHET**
 **UCM**
